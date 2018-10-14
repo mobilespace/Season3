@@ -61,7 +61,7 @@ With that being said, I think React Native is still a really promising technolog
 
 [Github](https://github.com/monte9) • [LinkedIn](https://www.linkedin.com/in/montethakkar)
 
-Over the last couple years, I have professionally worked as a React Native developer, helping publish two React Native apps on the App Store & Googlg Play Store and have led mobile teams as well. I have also spent extended periods of time working on open source libraries. Most notably I maintain the popular [React Native Elements](https://github.com/react-native-training/react-native-elements) repo which is the [most starred UI Toolkit](https://native.directory/stars) for React Native. Additionally you can see some of my other React Native work on my [Github profile](https://github.com/Monte9).
+Over the last couple years, I have professionally worked as a React Native developer, helping publish two React Native apps on the App Store & Google Play Store and have led mobile teams as well. I have also spent extended periods of time working on open source libraries. Most notably I maintain the popular [React Native Elements](https://github.com/react-native-training/react-native-elements) repo which is the [most starred UI Toolkit](https://native.directory/stars) for React Native. Additionally you can see some of my other React Native work on my [Github profile](https://github.com/Monte9).
 
 
 # Season 3 - Curriculum
@@ -70,7 +70,7 @@ This readme serves as the **roadmap for Season 3 @ UCSD**. In it are outlined th
 
 ## Housekeeping
 
-- 2 meetups/week for 6 weeks - **Oct 22nd => Dec 210th 2018**
+- 2 meetups/week for 6 weeks - **Oct 22nd => Dec 10th 2018**
 - Meetup day & time - **TBD**
 - Any community member that **misses two consecutive meetups** will be asked to **leave the community** due to lack of commitment.
 
@@ -94,9 +94,10 @@ The following learning patterns will be re-enforned throughout the course:
 
 ### Meetup #1
 - [x] Course Introduction
-- [x] Intro to Javascript (JSX), React & React Native
+- [x] Intro to Javascript (JSX), React
 - [x] Learning React state, props and functions
-- [x] Build React Native
+- [x] Intro to React Native, Expo and CRNA
+- [x] Intro to RN styling (flexbox)
 
 #### Attendance
 TBD
@@ -108,38 +109,26 @@ TBD
 - [Learn React - Free courses on Egghead.io](https://egghead.io/browse/frameworks/react) :star: :star: **[VIDEOS]**
 - [React controlled components](https://reactjs.org/docs/forms.html#controlled-components) **[OFFICIAL DOCS]**
 
-
-#### [ASSIGNMENT #1]() - **TBD**
-
-<br />
-
-### Meetup #3
-- [x] Intro to React Native, Expo and CRNA
-- [x] Intro to RN styling (flexbox)
-
-#### Attendance
-:white_check_mark: 13 students
-
-#### Resources
 - [React Native Express](http://www.reactnativeexpress.com/) :star: :star: **[WEB TUTORIAL]**
 - [React Native - Learn the Basics](https://facebook.github.io/react-native/docs/tutorial.html) :star: **[OFFICIAL DOCS]**
 - [React Native - Components and APIs](https://facebook.github.io/react-native/docs/components-and-apis.html) :star: **[OFFICIAL DOCS]**
 - [React Native Styling Cheat Sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet) **[GITHUB REPO]**
 - [The Complete React Native and Redux Course - Udemy Paid course](https://www.udemy.com/the-complete-react-native-and-redux-course/) **[ONLINE COURSE]**
 
-#### [ASSIGNMENT #3](https://github.com/mobilespace/exploring-react-native#assignment-1)
+
+#### [ASSIGNMENT #1](https://github.com/mobilespace/exploring-react-native#assignment-1) - **TBD**
 
 <br />
 
-### Meetup #4
-- [x] Learning React Native API's
-- [x] Advanced RN Styling
-- [x] Intro to NPM libraries
+### Meetup #2
+- [ ] Learning React Native API's
+- [ ] Advanced RN Styling
+- [ ] Intro to NPM libraries
 
 Working on **Daug Social Network mobile app** - Skeleton (part 1)
 
 #### Attendance
-:white_check_mark: 11 students
+TBD
 
 #### Resources
 - [Mobile Guides - React Native](https://github.com/mobilespace/MobileGuides#guides) :star: **[README GUIDES]**
@@ -149,13 +138,13 @@ Working on **Daug Social Network mobile app** - Skeleton (part 1)
 <br />
 
 ### Meetup #5
-- [x] Intro to React Navigation
-- [x] Advanced RN Styling
+- [ ] Intro to React Navigation
+- [ ] Advanced RN Styling
 
 Working on **Daug Social Network mobile app** - Navigation (part 2)
 
 #### Attendance
-:white_check_mark: 11 students
+TBD
 
 #### Resources
 - [Mobile Guides - React Native](https://github.com/mobilespace/MobileGuides#guides) :star: **[README GUIDES]**
@@ -165,13 +154,13 @@ Working on **Daug Social Network mobile app** - Navigation (part 2)
 <br />
 
 ### Meetup #6
-- [x] Making API calls with React Native
-- [x] Authentication flow & AsyncStorage
+- [ ] Making API calls with React Native
+- [ ] Authentication flow & AsyncStorage
 
 Working on **Daug Social Network mobile app** - Backend (part 3)
 
 #### Attendance
-:white_check_mark: 11 students
+TBD
 
 #### Resources
 - [Mobile Guides - React Native](https://github.com/mobilespace/MobileGuides#guides) :star: **[README GUIDES]**
@@ -181,14 +170,14 @@ Working on **Daug Social Network mobile app** - Backend (part 3)
 <br />
 
 ### Meetup #7
-- [x] Advanced API calls
-- [x] React Native wrap-up
+- [ ] Advanced API calls
+- [ ] React Native wrap-up
 - [ ] React Redux
 
 Working on **Daug Social Network mobile app** - Wrap up (part 4)
 
 #### Attendance
-:white_check_mark: 11 students
+TBD
 
 #### Resources
 - [Mobile Guides - React Native](https://github.com/mobilespace/MobileGuides#guides) :star: **[README GUIDES]**
@@ -198,20 +187,17 @@ Working on **Daug Social Network mobile app** - Wrap up (part 4)
 <br />
 
 ### Meetup #8-11
-- [x] Built a fully functioning mobile app with React Native + an API (3 weeks)
+- [ ] Built a fully functioning mobile app with React Native + an API (2 weeks)
 
-#### :star: GROUP PROJECT :rocket:
-:white_check_mark: 3 Teams
+#### :star: GROUP PROJECTS :rocket:
 
 <br />
 
 ### Meetup #12
-- [x] Demo the app
-- [x] Partyy :tada:
+- [ ] Demo the app
+- [ ] Partyy :tada:
 
 #### :star: DEMO DAY :fire:
-
-:white_check_mark: **Watch Season 2 Demo Day** - [Youtube](https://www.youtube.com/watch?v=MSteZ2InMr8)
 
 <br />
 
