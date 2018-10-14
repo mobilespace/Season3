@@ -121,8 +121,8 @@ TBD
 
 ### Week #1 - Course Begins
 - [ ] Learning React Native Core Components & API's
-- [ ] Advanced RN Styling
-- [ ] Intro to NPM libraries
+- [ ] Making API calls with React Native
+- [ ] Advanced RN Styling & NPM Libraries
 
 Working on **Daug Social Network mobile app** - Skeleton (part 1) 
 
@@ -138,7 +138,7 @@ TBD
 
 ### Week #2
 - [ ] Intro to React Navigation
-- [ ] Advanced RN Styling
+- [ ] Authentication flow & AsyncStorage
 
 Working on **Daug Social Network mobile app** - Navigation (part 2)
 
@@ -153,8 +153,9 @@ TBD
 <br />
 
 ### Week #3
-- [ ] Making API calls with React Native
-- [ ] Authentication flow & AsyncStorage
+- [ ] React Redux
+- [ ] Advanced API calls
+- [ ] React Native wrap-up
 
 Working on **Daug Social Network mobile app** - Backend (part 3)
 
@@ -168,25 +169,8 @@ TBD
 
 <br />
 
-### Week #4
-- [ ] React Redux
-- [ ] Advanced API calls
-- [ ] React Native wrap-up
-
-Working on **Daug Social Network mobile app** - Wrap up (part 4)
-
-#### Attendance
-TBD
-
-#### Resources
-- [Mobile Guides - React Native](https://github.com/mobilespace/MobileGuides#guides) :star: **[README GUIDES]**
-
-#### [ASSIGNMENT #4](https://github.com/mobilespace/daug-mobile#wrap-up)
-
-<br />
-
-### Week #5-6
-- [ ] Built a fully functioning mobile app with React Native + an API (2 weeks)
+### Week #4-6
+- [ ] Built a fully functioning mobile app with React Native + an API (3 weeks)
 
 #### :star: GROUP PROJECTS :rocket:
 
