@@ -4,7 +4,7 @@
 2. [Why React Native?](#why-react-native)
 3. [Instructors](#instructors)
 
-## [Season 3 @ UCSD - Curriculum](#season-3---curriculum-1)
+## [Season 3 @ UCSD - Curriculum](#season-3---curriculum)
 
 1. [Housekeeping](#housekeeping)
 2. [Course Objective](#course-objective)
@@ -70,7 +70,7 @@ This readme serves as the **roadmap for Season 3 @ UCSD**. In it are outlined th
 
 ## Housekeeping
 
-- 2 meetups/week for 6 weeks - **Oct 22nd => Dec 10th 2018**
+- 2 meetups/week for 6 weeks - **Oct 29nd => Dec 10th 2018**
 - Meetup day & time - **TBD**
 - Any community member that **misses two consecutive meetups** will be asked to **leave the community** due to lack of commitment.
 
@@ -92,12 +92,12 @@ The following learning patterns will be re-enforned throughout the course:
 
 ## Roadmap
 
-### Meetup #1
-- [x] Course Introduction
-- [x] Intro to Javascript (JSX), React
-- [x] Learning React state, props and functions
-- [x] Intro to React Native, Expo and CRNA
-- [x] Intro to RN styling (flexbox)
+### Week #0 - Prework
+- [ ] Course Introduction
+- [ ] Intro to Javascript (JSX), React
+- [ ] Learning React state, props and functions
+- [ ] Intro to React Native, Expo and CRNA
+- [ ] Intro to RN styling (flexbox)
 
 #### Attendance
 TBD
@@ -108,7 +108,6 @@ TBD
 - [React Express](http://www.react.express/) :star: :star: **[WEB TUTORIAL]**
 - [Learn React - Free courses on Egghead.io](https://egghead.io/browse/frameworks/react) :star: :star: **[VIDEOS]**
 - [React controlled components](https://reactjs.org/docs/forms.html#controlled-components) **[OFFICIAL DOCS]**
-
 - [React Native Express](http://www.reactnativeexpress.com/) :star: :star: **[WEB TUTORIAL]**
 - [React Native - Learn the Basics](https://facebook.github.io/react-native/docs/tutorial.html) :star: **[OFFICIAL DOCS]**
 - [React Native - Components and APIs](https://facebook.github.io/react-native/docs/components-and-apis.html) :star: **[OFFICIAL DOCS]**
@@ -116,16 +115,16 @@ TBD
 - [The Complete React Native and Redux Course - Udemy Paid course](https://www.udemy.com/the-complete-react-native-and-redux-course/) **[ONLINE COURSE]**
 
 
-#### [ASSIGNMENT #1](https://github.com/mobilespace/exploring-react-native#assignment-1) - **TBD**
+#### [PREWORK ASSIGNMENT](https://github.com/mobilespace/exploring-react-native#assignment-1) - **TIP CALCULATOR APP** 
 
 <br />
 
-### Meetup #2
-- [ ] Learning React Native API's
+### Week #1 - Course Begins
+- [ ] Learning React Native Core Components & API's
 - [ ] Advanced RN Styling
 - [ ] Intro to NPM libraries
 
-Working on **Daug Social Network mobile app** - Skeleton (part 1)
+Working on **Daug Social Network mobile app** - Skeleton (part 1) 
 
 #### Attendance
 TBD
@@ -133,11 +132,11 @@ TBD
 #### Resources
 - [Mobile Guides - React Native](https://github.com/mobilespace/MobileGuides#guides) :star: **[README GUIDES]**
 
-#### [ASSIGNMENT #4](https://github.com/mobilespace/daug-mobile#assignment-1)
+#### [ASSIGNMENT #1](https://github.com/mobilespace/daug-mobile#assignment-1)
 
 <br />
 
-### Meetup #5
+### Week #2
 - [ ] Intro to React Navigation
 - [ ] Advanced RN Styling
 
@@ -149,11 +148,11 @@ TBD
 #### Resources
 - [Mobile Guides - React Native](https://github.com/mobilespace/MobileGuides#guides) :star: **[README GUIDES]**
 
-#### [ASSIGNMENT #5](https://github.com/mobilespace/daug-mobile#assignment-2)
+#### [ASSIGNMENT #2](https://github.com/mobilespace/daug-mobile#assignment-2)
 
 <br />
 
-### Meetup #6
+### Week #3
 - [ ] Making API calls with React Native
 - [ ] Authentication flow & AsyncStorage
 
@@ -165,14 +164,14 @@ TBD
 #### Resources
 - [Mobile Guides - React Native](https://github.com/mobilespace/MobileGuides#guides) :star: **[README GUIDES]**
 
-#### [ASSIGNMENT #6](https://github.com/mobilespace/daug-mobile#assignment-3)
+#### [ASSIGNMENT #3](https://github.com/mobilespace/daug-mobile#assignment-3)
 
 <br />
 
-### Meetup #7
+### Week #4
+- [ ] React Redux
 - [ ] Advanced API calls
 - [ ] React Native wrap-up
-- [ ] React Redux
 
 Working on **Daug Social Network mobile app** - Wrap up (part 4)
 
@@ -182,18 +181,18 @@ TBD
 #### Resources
 - [Mobile Guides - React Native](https://github.com/mobilespace/MobileGuides#guides) :star: **[README GUIDES]**
 
-#### [ASSIGNMENT #7](https://github.com/mobilespace/daug-mobile#wrap-up)
+#### [ASSIGNMENT #4](https://github.com/mobilespace/daug-mobile#wrap-up)
 
 <br />
 
-### Meetup #8-11
+### Week #5-6
 - [ ] Built a fully functioning mobile app with React Native + an API (2 weeks)
 
 #### :star: GROUP PROJECTS :rocket:
 
 <br />
 
-### Meetup #12
+### Week #7
 - [ ] Demo the app
 - [ ] Partyy :tada:
 
